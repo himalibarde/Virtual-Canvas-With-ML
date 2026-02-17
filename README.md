@@ -1,4 +1,4 @@
-# 🖐️ Virtual-Canvas-OpenCV
+# 🖐️ Virtual-Canvas-With-ML
 
 > A computer vision project implemented with **OpenCV** and **Machine Learning** using **MediaPipe**. Draw on a virtual canvas using just your hand gestures — no touch required!
 
